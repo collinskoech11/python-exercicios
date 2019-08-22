@@ -4,7 +4,7 @@
 # fazendo o calculo dos numeros de acordo com o operador digitado
 
 num1 = int(input("Digite um numero: "))
-num2 = int(input("Digite outro numero: "))
+num2 = int(input("Digite outro numero: ")) 
 operadores = ["+", "-", "*", "/"]
 print(operadores)
 operador = input("Escolha um dos simbolos para realizar a operacao matemática: ")
