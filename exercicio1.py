@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+
+# Programa que verifica a idade digitada para dizer se é
+# menor de idade ou não
+
 idade = int(input("Digite sua idade: "))
 
 def olhaIdade(idade):
